@@ -1,0 +1,78 @@
+# ninja log v6
+15	39	7601477705774526	C:/Users/Ikaro/Downloads/u4_c4_t1_interruptores_leds_WS2812-main/generated/ws2812.pio.h	396ffe0d0b85c2b8
+723	1206	7601560133233096	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj	2a7ae4c74095396d
+98	203	7601560126993084	pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default.dir/compile_time_choice.S.obj	21d6821133c4b71c
+459	877	7601560130603091	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.obj	f221ce9d48250c52
+167	182	7601477707203990	C:/Users/Ikaro/Downloads/u4_c4_t1_interruptores_leds_WS2812-main/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin	87ca1a9ec10a07d8
+203	326	7601560128033083	pico-sdk/src/rp2040/boot_stage2/bs2_default.elf	ea0c600e899102a5
+1414	1587	7601560140163119	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj	6b0d540e1a88e28d
+638	1348	7601560132393099	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.obj	d6fd56b70f01d948
+326	373	7601560129723089	pico-sdk/src/rp2040/boot_stage2/bs2_default.bin	a24c1cd82738529
+463	668	7601560130653091	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	516eb96001a69037
+938	1203	7601560135393093	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	46d054220ea0171
+373	437	7601560130333155	pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S	a55ce13562586760
+183	237	7601477707715824	C:/Users/Ikaro/Downloads/u4_c4_t1_interruptores_leds_WS2812-main/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S	c73f42eada30cd17
+449	723	7601560130503090	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.obj	e0add1d050e1059a
+444	642	7601560130453089	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.obj	cfecad4a88a6147d
+440	730	7601560130403165	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj	a4ce89bdf413330a
+700	977	7601560133003114	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj	f79616359ff25139
+883	1062	7601560134833090	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.obj	96ae5efaef582c89
+1551	1904	7601560141513099	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pio/pio.c.obj	9ba64fea740a5e40
+942	1154	7601560135423093	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	d397e6ccc578248d
+1058	1322	7601560136583091	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj	a855b004be1daa16
+479	759	7601560130793093	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.obj	69f2d5a615ea0346
+442	938	7601560130423089	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.obj	2c69d3bf8852fccc
+1571	1690	7601560141723100	pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.obj	d59fa8a29837e4b0
+453	699	7601560130533088	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.obj	1867eda500bcaf86
+810	1016	7601560134103087	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.obj	d440b2bc96dd27d4
+472	726	7601560130733093	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.obj	de1ea2ee76b39924
+759	1414	7601560133593089	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.obj	cce02bdc2c9b5800
+1316	1639	7601560139163119	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj	a61ff437ad52da
+447	809	7601560130483087	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.obj	52a42f505a51813
+456	638	7601560130563085	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	6e2d5ad1a1570ca
+438	882	7601560130383199	CMakeFiles/ws2812.dir/ws2812.c.obj	a6366f828ff8d6d8
+726	1058	7601560133273087	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj	93d3527b2696bcff
+476	886	7601560130763086	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.obj	c0beeb86de1d9161
+468	815	7601560130693092	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj	4f40ab7068368a16
+878	1226	7601560134783095	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.obj	dce5a4db1166982
+642	942	7601560132423094	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj	24982f7c8f22a297
+816	1052	7601560134163088	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj	44398ea8cb6c0cfc
+668	1186	7601560132693096	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.obj	7e79262f6569ce2
+1322	1852	7601560139233091	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj	5dc901b2b5211f77
+886	1169	7601560134873092	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.obj	2fc6a8cc748e869e
+730	1032	7601560133303091	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.obj	1e0fac47ae488f44
+977	1265	7601560135783097	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj	ee348afca17ffa71
+1169	1356	7601560137693096	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	82166eadb7dbf3a8
+1187	1374	7601560137873096	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj	16befa43beaa06fc
+1476	1794	7601560140793104	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.obj	6e18b5ee2c538741
+1052	1315	7601560136523096	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.obj	100fa1607e85c154
+1206	1537	7601560138073099	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj	d3dbd356f7be5465
+1033	1218	7601560136333087	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj	ff50165aff7d5d5d
+1016	1271	7601560136163092	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.obj	c2825da46885a626
+1203	1383	7601560138033095	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj	f2c1f3039df2ed65
+1062	1339	7601560136623096	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	38a97fb96fe3212
+1154	1366	7601560137543094	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj	d4290ff15d579d48
+1227	1397	7601560138273096	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj	1adb6143d78dbcd5
+1266	1446	7601560138663094	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj	9d2c17efbf94a827
+1271	1475	7601560138713096	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj	3532eb7826daf42b
+1356	1549	7601560139563103	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj	532c82dea5c512c7
+1340	1569	7601560139403106	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.obj	d5c22801f75989be
+1383	1676	7601560139843096	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	22c15ddff29813d5
+1349	1576	7601560139523098	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.obj	3a4f7e0e44c4ba0f
+1374	1671	7601560139753103	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj	d492ebdaa779bec3
+1218	1875	7601560138193092	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj	595c893802be9b12
+1366	1757	7601560139663102	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj	ba5f7ddd1b084e89
+1397	1952	7601560139983092	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.obj	123f27f093ede233
+1537	1774	7601560141383096	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj	c428b302ee8cd699
+1447	1712	7601560140473098	CMakeFiles/ws2812.dir/C_/Users/Ikaro/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	7ee16bb49a8866bc
+1952	2107	7601560145527487	ws2812.elf	d73b5e73ef022ffd
+92	111	7601496522666050	C:/Users/Ikaro/Downloads/Tarefa interruptores/generated/ws2812.pio.h	e064860403d3c86a
+194	210	7601496523647128	C:/Users/Ikaro/Downloads/Tarefa interruptores/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin	6f44d031bfb70e04
+210	257	7601496524090443	C:/Users/Ikaro/Downloads/Tarefa interruptores/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S	5653730b09209e4f
+102	236	7601560128343080	C:/Users/Ikaro/Downloads/Conteúdos Embarcatech/Tarefas/Unidade 4 - Microcontroladores/Tarefa Interrupções/generated/ws2812.pio.h	6b0224241673eb3f
+326	373	7601560129723089	C:/Users/Ikaro/Downloads/Conteúdos Embarcatech/Tarefas/Unidade 4 - Microcontroladores/Tarefa Interrupções/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin	a24c1cd82738529
+373	437	7601560130333155	C:/Users/Ikaro/Downloads/Conteúdos Embarcatech/Tarefas/Unidade 4 - Microcontroladores/Tarefa Interrupções/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S	a55ce13562586760
+91	472	7602404527427944	CMakeFiles/ws2812.dir/ws2812.c.obj	a6366f828ff8d6d8
+472	1203	7602404531247940	ws2812.elf	d73b5e73ef022ffd
+27	169	7602404826473686	CMakeFiles/ws2812.dir/ws2812.c.obj	a6366f828ff8d6d8
+170	322	7602404827913198	ws2812.elf	d73b5e73ef022ffd

@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/ws2812.hex'
+elf = 'build/ws2812.elf'
